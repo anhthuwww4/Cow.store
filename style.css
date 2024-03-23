@@ -11,7 +11,7 @@ a{
 }
 header{
     background-color: #e5e5e5;
-    padding: 10px;
+    padding: 80px;
 }
 header a {
     text-decoration: none;
@@ -36,7 +36,7 @@ nav a{
     margin: 5px;
     text-align: center;
     border-radius: 50px;
-    font-size: 20px;
+    font-size: 40px;
     
 }
 nav{
@@ -86,4 +86,5 @@ footer{
 p{
     font-family: 'Springtime Daydream', sans-serif;
     line-height: 30px;
+    font-size: 25px;
 }
